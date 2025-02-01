@@ -1,5 +1,5 @@
 {
-  "name": "ml-ios"",
+  "name": "ml-ios",
   "build": {
     "context": "..",
     "dockerfile": "Dockerfile"
