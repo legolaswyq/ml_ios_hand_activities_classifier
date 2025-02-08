@@ -1,0 +1,3 @@
+Up_down
+Right_circle
+Left_circle
